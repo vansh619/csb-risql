@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vansh619.github.io/csb-risql/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vansh619.github.io/csb-risql/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://vansh619.github.io/csb-risql/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://vansh619.github.io/csb-risql/static/js/runtime-main.361e6ab4.js",
+    "runtime-main.js.map": "https://vansh619.github.io/csb-risql/static/js/runtime-main.361e6ab4.js.map",
+    "static/js/2.2350909c.chunk.js": "https://vansh619.github.io/csb-risql/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://vansh619.github.io/csb-risql/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://vansh619.github.io/csb-risql/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vansh619.github.io/csb-risql/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://vansh619.github.io/csb-risql/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.361e6ab4.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
